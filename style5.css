@@ -1,0 +1,11 @@
+ul li:nth-of-type(odd) {
+    color: white;
+    background-color:blue;
+}
+
+ul li {
+    padding: 15px;
+    list-style: none;
+    width: 350px;
+    text-align: left;
+}
